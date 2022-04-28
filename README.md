@@ -2,8 +2,8 @@
 
 ##
 
-📝 Estudante de Ciência da computação - 7º Período
-🔭 Atualmente estou estudando Flutter
+##### 📝 Estudante de Ciência da computação - 7º Período
+##### 🔭 Atualmente estou estudando Flutter
 
 ##
 
