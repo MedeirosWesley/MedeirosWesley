@@ -1,9 +1,9 @@
-### Olá, sou o Wesley 👋
+# Olá, sou o Wesley 👋
 
 ##
 
-##### 📝 Estudante de Ciência da computação - 7º Período
-##### 🔭 Atualmente estou estudando Flutter
+#### 📝 Estudante de Ciência da Computação - 7º Período
+#### 🔭 Atualmente estudando Flutter
 
 ##
 
