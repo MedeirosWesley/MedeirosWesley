@@ -1,11 +1,9 @@
-# Olá, sou o Wesley 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-##
 
-#### 📝 Estudante de Ciência da Computação - 8º Período
-#### 🔭 Atualmente estudando Flutter
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+MY+NAME+is+Wesley+Medeiros;I'm+22+years+old;I'm+from+Brasil,+MG;I'm+graduated+in+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-##
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MedeirosWesley&theme=gotham)
 
 <div align="center">
   <a href="https://github.com/MedeirosWesley">
